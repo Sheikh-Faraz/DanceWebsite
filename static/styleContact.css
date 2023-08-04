@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    margin: 30px;
+}
+input{
+    display: block;
+    margin: 15px auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 12px;
+    font-size: 20px;
+    outline: none;
+}
+.btn{
+    width: 10%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 12px;
+    font-size: 20px;
+    outline: none;
+    cursor: pointer;
+    margin: 15px auto;
+    display: block;
+    color: white;
+    background-color: red;
+    border: 2px solid black;
+}
+.btn:hover{
+    background-color: rgb(237, 117, 117);
+}
+.container{
+    min-height: 80vh;
+}
